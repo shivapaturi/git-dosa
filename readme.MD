@@ -2,3 +2,4 @@
 
 # plan dosa
 * dosa batter
+* lightly oil
