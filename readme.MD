@@ -15,3 +15,4 @@
 * Dosa batter
 * panner curry
 * masala curry
+* light oil
