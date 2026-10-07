@@ -10,3 +10,7 @@
 
 # Egg Dosa
 * Dosa batter
+
+# Gheer karam
+* Dosa batter
+* ghee
