@@ -10,3 +10,8 @@
 
 # Egg Dosa
 * Dosa batter
+
+# Panner Dosa
+* Dosa batter
+* panner curry
+* masala curry
